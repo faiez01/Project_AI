@@ -6,7 +6,7 @@ import os
 from os import listdir
  
 # get the path or directory
-folder_dir = "C:/Users/AZUS/Downloads/gad/img"
+folder_dir = "./img"
 args=[]
 for images in os.listdir(folder_dir):
  
